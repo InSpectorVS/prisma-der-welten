@@ -1,27 +1,20 @@
-# Das Prisma der Welten ♾️
+# Das Prisma der Welten — Die Nacht des Dracula 🦇
 
-Ein freier, experimenteller Fantasy-Welt-Prototyp: drei Landschaften, frei bewegliche Kamera und sammelbare Edelsteine.
+Ein freier, experimenteller gotischer Fantasy-Welt-Prototyp mit **Graf Dracula** als geheimnisvollem Fürsten. Drei Reiche — Dornenwald, Frostkathedrale und Sternengruft — lassen sich aus der Ich-Perspektive erkunden. Sammle Rubin, Saphir und Smaragd.
 
-## Start
+## Spielen
 
-`index.html` im Browser öffnen. Keine Installation, kein Build-System und keine externen Bibliotheken erforderlich.
+Öffne `index.html` in einem aktuellen Browser. Es sind keine zusätzlichen Bibliotheken nötig.
 
-## Bedienung
-
-- W/A/S/D: vorwärts, rückwärts, seitwärts
-- Pfeiltasten links/rechts: Kamera drehen
-- Mit Maus/Finger auf der Szene ziehen: Kamera drehen
-- Mobile Schaltflächen: Bewegung
-- Schaltflächen oberhalb der Szene: zwischen den drei Reichen wechseln
+- **W/A/S/D**: bewegen
+- **Pfeiltasten**: vorwärts/rückwärts und drehen
+- **Maus/Finger ziehen**: Blickrichtung ändern
+- **Mobilgerät**: Bildschirmtasten zum Bewegen
 
 ## Technik
 
-HTML5 Canvas mit perspektivischer Projektion (2,5D), noch keine echte WebXR-/VR-Engine. Alle Landschaftsobjekte sind prozedural gezeichnet. Keine externen Bildassets enthalten.
+HTML5 Canvas mit perspektivischer **2,5D-Darstellung**. Kein vollständiges 3D-/WebXR-VR-Spiel.
 
-## Mitmachen
+## Open Source
 
-Beiträge, Ideen und Pull Requests sind willkommen. Respektiere die Kreativität und Rechte anderer.
-
-## Lizenz
-
-Quellcode: MIT, siehe [LICENSE](LICENSE). Für künftig hinzugefügte Bilder, Musik, Marken und andere Assets müssen die jeweiligen Nutzungsrechte separat geklärt werden.
+Beiträge und Verbesserungsvorschläge sind willkommen. Quellcode unter [MIT-Lizenz](LICENSE). Rechte an ergänzten Medien separat prüfen. Die Figur Dracula basiert auf dem gemeinfreien literarischen Stoff von Bram Stoker; neue Gestaltungen sind eigenständig.
